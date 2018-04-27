@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8236DC4C-C62A-4EC5-A0E4-0C8FF012693B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PariwisataApp/HomeFragment.cs">
+    <Files>
+      <File FileName="PariwisataApp/ListKulinerFragment.cs" Line="28" Column="83" />
+      <File FileName="PariwisataApp/HomeFragment.cs" Line="58" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PariwisataApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_4_API_26" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

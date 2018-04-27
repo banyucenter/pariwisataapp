@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#e67e22">
+    <ImageView
+        android:src="@drawable/logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="58.0dp"
+        android:layout_marginTop="17.5dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNama"
+        android:hint="Nama"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEmail"
+        android:hint="Email"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff" />
+    <EditText
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPassword"
+        android:hint="Password"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtTelp"
+        android:hint="Handphone"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff" />
+    <Button
+        android:text="SIMPAN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSimpan"
+        android:background="#ff455a64"
+        android:textStyle="bold"
+        android:textColor="#ffffffff" />
+    <Button
+        android:text="BATAL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBatal"
+        android:background="#ff2196f3"
+        android:textStyle="bold"
+        android:textColor="#ffffffff" />
+</LinearLayout>

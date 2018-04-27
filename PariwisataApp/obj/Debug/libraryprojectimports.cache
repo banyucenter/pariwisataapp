@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/UrlImageViewHelper/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.Design/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/UrlImageViewHelper/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/UrlImageViewHelper.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/ipungpurwono/Projects/PariwisataApp/PariwisataApp/obj/Debug/__library_projects__/Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

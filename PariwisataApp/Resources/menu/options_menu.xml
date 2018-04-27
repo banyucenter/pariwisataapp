@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>  
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">  
+    <!--///showAsAction="always" ///-->  
+    <item android:id="@+id/action_settings" android:title="Share" showAsAction="always" />  
+    <item android:id="@+id/action_settings1" android:title="Web Apps" showAsAction="always" />  
+    <item android:id="@+id/action_settings2" android:title="Logout" showAsAction="always" />  
+
+</menu> 
